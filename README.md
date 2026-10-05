@@ -31,7 +31,7 @@ VERIFIER-LE-FICHIER.cmd.
 
 Le rÃ©sultat attendu est **FICHIER CONFORME** : l'empreinte SHA-256 calculÃ©e
 correspond Ã  celle publiÃ©e dans latest.json. Le script affiche aussi la
-signature du fichier (signed = Â« Ã‰diteur Â» renseignÃ©, non signÃ© = avertissement
+signature du fichier (signÃ© = Â« Ã‰diteur Â» renseignÃ©, non signÃ© = avertissement
 SmartScreen attendu).
 
 ### Et pour la suite
